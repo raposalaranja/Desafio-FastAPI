@@ -1,3 +1,7 @@
+#Desafio 3 - Bootcamp Back-end Python
+Segui os passos propostos em Consumo de API com FastAPI para realizar o desafio.
+
+
 # Build a CRUD App with FastAPI and SQLAlchemy
 
 In this article, I'll provide you with a simple and straightforward guide on how you can build a CRUD app with FastAPI and SQLAlchemy. The FastAPI app will run on a Starlette web server, use Pydantic for data validation, and store data in an SQLite database.
